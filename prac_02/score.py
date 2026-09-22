@@ -30,4 +30,5 @@ def determine_result(score: float) -> str:
     return result
 
 
-main()
+if __name__ == '__main__':
+    main()
